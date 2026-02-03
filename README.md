@@ -178,7 +178,7 @@ The frontend will run on `http://localhost:3000` and proxy API requests to `http
 
 ## License 📄
 
-This project is open source and available for personal use.
+This project is made for assignment purpose for the Karbon Business
 
 ---
 
